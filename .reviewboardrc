@@ -1,0 +1,5 @@
+REVIEWBOARD_URL = 'http://192.9.200.109/'
+REPOSITORY = 'Reviewboard-test'
+TRACKING_BRANCH='upstream/master'
+BRANCH = 'master'
+DISABLE_SSL_VERIFICATION='false'
